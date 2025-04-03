@@ -2,12 +2,9 @@
 
 <div style="text-align: center;">
     <img src="https://img.shields.io/static/v1?label=github&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-    <br>
     <p>Sapere Aude!</p>
 </div>
 
-
-<br>
 
 ## Tecnologias & Linguagens
 
