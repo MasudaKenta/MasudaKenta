@@ -1,13 +1,28 @@
 ## Hi there 👋
 
-![MasudaKenta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudaKenta&show_icons=true&theme=dark)
-
-## Tecnologia e Linguagens
-
-<div style="inline_block"><br>
-  <img  align="center" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img  align="center" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img  align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img  align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   	
+<div style="text-align: center;">
+    <img src="https://img.shields.io/static/v1?label=github&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+    <p>Sapere Aude!</p>
 </div>
+
+<br>
+
+## Tecnologias & Linguagens
+
+<div>
+    <code><img src="https://skillicons.dev/icons?i=cpp" /></code>
+    <code><img src="https://skillicons.dev/icons?i=cs" /></code>
+    <code><img src="https://skillicons.dev/icons?i=c" /></code>
+    <code><img src="https://skillicons.dev/icons?i=java&theme=light" /></code>
+    <code><img src="https://skillicons.dev/icons?i=html" /></code>
+    <!--<code><img src="https://skillicons.dev/icons?i=php" /></code>-->
+</div>
+
+## Github Stats
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=masudakenta&show_icons=true&theme=midnight-purple">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masudakenta&size_weight=0.5&count_weight=0.5&theme=midnight-purple">
+
+</div>
+
