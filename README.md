@@ -5,6 +5,17 @@
 
 <br>
 
+## Informações Básicas
+- Formado em Técnico em Informática, IFSP-BRT [2022-2024]
+- Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
+<div>
+
+
+
+</div>
+
+<br>
+
 ## Tecnologias & Linguagens
 
 <div>
@@ -19,9 +30,10 @@
 ## Github Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=masudakenta&show_icons=true&theme=midnight-purple&card_width=500px">
+    <img src="https://github-readme-stats.vercel.app/api?username=masudakenta&show_icons=true&theme=midnight-purple&card_width=700px&locale=pt-pt">
     <br>
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masudakenta&size_weight=0.5&count_weight=0.5&theme=midnight-purple&card_width=500px">
+    <br>
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masudakenta&size_weight=0.5&count_weight=0.5&theme=midnight-purple&card_width=700px">
 
 </div>
 
