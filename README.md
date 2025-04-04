@@ -5,6 +5,8 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&width=500&lines=Sapere+Aude!&duration=1500&repeat=false&center=true)](https://git.io/typing-svg)
+
 ## Informações Básicas
 - Formado em Técnico em Informática, IFSP-BRT [2022-2024]
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
@@ -40,3 +42,19 @@
 
 ## Hi there 👋
 
+
+
+
+
+<div id="container">
+    <h1>I'm <span class="auto-type"><span></h1>
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+    <script> 
+        var typed = new Typed('.auto-type', {
+            strings: ["Coding"],
+            typeSpeed: 150,
+            backSpeed: 150,
+            loop: true,
+        });
+    </script>
+</div>
