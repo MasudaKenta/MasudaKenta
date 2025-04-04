@@ -5,6 +5,9 @@
     <p>Sapere Aude!</p>
 </div>
 
+<center>
+    <p>Sapere Aude</p>
+</center>
 
 ## Tecnologias & Linguagens
 
