@@ -5,7 +5,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false)](https://git.io/typing-svg)
 
 ## Informações Básicas
 - Formado em Técnico em Informática, IFSP-BRT [2022-2024]
