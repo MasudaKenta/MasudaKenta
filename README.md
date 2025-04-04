@@ -1,13 +1,9 @@
 ## Hi there 👋
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/static/v1?label=github&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+    <img src="https://img.shields.io/static/v1?label=overview&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
     <p>Sapere Aude!</p>
 </div>
-
-<center>
-    <p>Sapere Aude</p>
-</center>
 
 ## Tecnologias & Linguagens
 
@@ -24,6 +20,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=masudakenta&show_icons=true&theme=midnight-purple">
+    <br>
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masudakenta&size_weight=0.5&count_weight=0.5&theme=midnight-purple">
 
 </div>
