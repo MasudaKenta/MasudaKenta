@@ -9,7 +9,7 @@
 
 
 ## Informações Básicas
-- Formado em Técnico em Informática, <img src="https://github.com/user-attachments/assets/bbd48a71-0a10-4a00-b78c-23a44836aed0" heigth="10px" width="40px"> IFSP-BRT [2022-2024]
+- Formado em Técnico em Informática, <img src="https://github.com/user-attachments/assets/bbd48a71-0a10-4a00-b78c-23a44836aed0" heigth="20px" width="80px"> IFSP-BRT [2022-2024]
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
 <div>
 
