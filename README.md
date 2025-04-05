@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://img.shields.io/static/v1?label=overview&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
     <br>
     <br>
