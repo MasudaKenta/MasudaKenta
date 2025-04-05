@@ -3,19 +3,12 @@
     <br>
     <br>
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false&color=751adb" alt="Sapere Aude!">
-
-
 </div>
 
 
 ## Informações Básicas
-- Formado em Técnico em Informática, <img src="https://github.com/user-attachments/assets/bbd48a71-0a10-4a00-b78c-23a44836aed0" heigth="20px" width="80px"> IFSP-BRT [2022-2024]
+- Formado em Técnico em Informática, <img src ="" >IFSP-BRT [2022-2024]
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
-<div>
-
-
-
-</div>
 
 <br>
 
@@ -28,7 +21,10 @@
     <code><img src="https://skillicons.dev/icons?i=java&theme=light" /></code>
     <code><img src="https://skillicons.dev/icons?i=html" /></code>
     <!--<code><img src="https://skillicons.dev/icons?i=php" /></code>-->
+    <!--<code><img src="https://skillicons.dev/icons?i=php" /></code>-->
 </div>
+
+<br>
 
 ## Github Stats
 
@@ -37,9 +33,17 @@
     <br>
     <br>
     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=masudakenta&size_weight=0.5&count_weight=0.5&theme=midnight-purple&card_width=700px">
-
 </div>
 
+<br>
 
-## Hi there 👋
+## Social
+
+<div>
+    <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+</div>
+
 
