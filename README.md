@@ -7,8 +7,8 @@
 
 
 ## Informações Básicas
-- Formado em Técnico em Informática, <img src ="" >IFSP-BRT [2022-2024]
-- Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
+- Formado em Técnico em Informática, IFSP [2022-2024]
+- Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP [2025-2027]
 
 <br>
 
