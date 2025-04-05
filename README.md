@@ -2,14 +2,14 @@
     <img src="https://img.shields.io/static/v1?label=overview&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
     <br>
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false" alt="Sapere Aude!">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false&color=751adb" alt="Sapere Aude!">
 
 
 </div>
 
 
 ## Informações Básicas
-- Formado em Técnico em Informática, IFSP-BRT [2022-2024]
+- Formado em Técnico em Informática, <img src="https://github.com/user-attachments/assets/bbd48a71-0a10-4a00-b78c-23a44836aed0"> IFSP-BRT [2022-2024]
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas, IFSP-BRT [2025-2027]
 <div>
 
