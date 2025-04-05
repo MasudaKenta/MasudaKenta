@@ -1,8 +1,8 @@
-<div align="center">
+<div>
     <img src="https://img.shields.io/static/v1?label=overview&message=MasudaKenta&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
     <br>
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=     +Sapere+Aude!&duration=3000&repeat=false&color=751adb" alt="Sapere Aude!">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&&width=500&lines=Sapere+Aude!&duration=3000&repeat=false&color=751adb" alt="Sapere Aude!">
 </div>
 
 
